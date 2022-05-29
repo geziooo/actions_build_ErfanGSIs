@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: h2mvp9e3.v1d.szbdyd.com
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.3/cn/20220510102807/bc230e9b/update.zip
   ROM_NAME: Generic Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
