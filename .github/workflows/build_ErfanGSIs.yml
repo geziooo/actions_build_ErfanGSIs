@@ -14,8 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2Fmeizu18X%2F9.2.3.2%2Fcn%2F20211202045911%2F25302566%2Fupdate.zip
-
+  ROM_URL: h2mvp9e3.v1d.szbdyd.com
   ROM_NAME: Generic Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
